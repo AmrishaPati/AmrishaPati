@@ -7,13 +7,13 @@
 
 •⁠  ⁠👨‍💻 All of my projects are available at [https://www.behance.net/amrishapati/projects]
 
-•⁠  ⁠💬 Ask me about Front-end Development, Web Designing
+•⁠  ⁠💬 Ask me about Front-end Development and Web Designing.
 
 •⁠  ⁠📫 How to reach me amrishapati@gmail.com
 
 •⁠  ⁠📄 Know about my experiences [https://www.linkedin.com/in/amrisha-pati-557b011b9/]
 
-•⁠  ⁠⚡ Interesting fact I love to travel.
+•⁠  ⁠⚡ Interesting fact I love to dance and travel.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
