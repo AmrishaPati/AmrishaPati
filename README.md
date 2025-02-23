@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amrisha Pati</h1>
 <h3 align="center">A passionate Front-end Developer from India</h3>
 
-•⁠  ⁠🔭 I’m currently working on [TRUEiGTECH]([https://www.trueigtech.com/])
+•⁠  ⁠🔭 I’m currently working on [TRUEiGTECH][https://www.trueigtech.com/]
 
 •⁠  ⁠🌱 I’m currently learning React JS
 
